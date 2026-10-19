@@ -51,7 +51,7 @@ The same content was published as a Confluence space. Screenshots of the publish
 
 ## Screenshots of the Confluence Space
 
-The first pages of the published Confluence space are shown below. The full set of 33 screenshots is in the [screenshots folder](confluence-preview-accu-chek-guide-me-documentation/).
+The first pages of the published Confluence space are shown below. Open the section after them to see all 33 screenshots, or browse the [screenshots folder](confluence-preview-accu-chek-guide-me-documentation/).
 
 ![Confluence space, part 1](confluence-preview-accu-chek-guide-me-documentation/01.png)
 
@@ -60,6 +60,69 @@ The first pages of the published Confluence space are shown below. The full set 
 ![Confluence space, part 3](confluence-preview-accu-chek-guide-me-documentation/03.png)
 
 ![Confluence space, part 4](confluence-preview-accu-chek-guide-me-documentation/04.png)
+
+<details>
+<summary>Show all remaining screenshots (5 to 33)</summary>
+
+![Confluence space, part 5](confluence-preview-accu-chek-guide-me-documentation/05.png)
+
+![Confluence space, part 6](confluence-preview-accu-chek-guide-me-documentation/06.png)
+
+![Confluence space, part 7](confluence-preview-accu-chek-guide-me-documentation/07.png)
+
+![Confluence space, part 8](confluence-preview-accu-chek-guide-me-documentation/08.png)
+
+![Confluence space, part 9](confluence-preview-accu-chek-guide-me-documentation/09.png)
+
+![Confluence space, part 10](confluence-preview-accu-chek-guide-me-documentation/10.png)
+
+![Confluence space, part 11](confluence-preview-accu-chek-guide-me-documentation/11.png)
+
+![Confluence space, part 12](confluence-preview-accu-chek-guide-me-documentation/12.png)
+
+![Confluence space, part 13](confluence-preview-accu-chek-guide-me-documentation/13.png)
+
+![Confluence space, part 14](confluence-preview-accu-chek-guide-me-documentation/14.png)
+
+![Confluence space, part 15](confluence-preview-accu-chek-guide-me-documentation/15.png)
+
+![Confluence space, part 16](confluence-preview-accu-chek-guide-me-documentation/16.png)
+
+![Confluence space, part 17](confluence-preview-accu-chek-guide-me-documentation/17.png)
+
+![Confluence space, part 18](confluence-preview-accu-chek-guide-me-documentation/18.png)
+
+![Confluence space, part 19](confluence-preview-accu-chek-guide-me-documentation/19.png)
+
+![Confluence space, part 20](confluence-preview-accu-chek-guide-me-documentation/20.png)
+
+![Confluence space, part 21](confluence-preview-accu-chek-guide-me-documentation/21.png)
+
+![Confluence space, part 22](confluence-preview-accu-chek-guide-me-documentation/22.png)
+
+![Confluence space, part 23](confluence-preview-accu-chek-guide-me-documentation/23.png)
+
+![Confluence space, part 24](confluence-preview-accu-chek-guide-me-documentation/24.png)
+
+![Confluence space, part 25](confluence-preview-accu-chek-guide-me-documentation/25.png)
+
+![Confluence space, part 26](confluence-preview-accu-chek-guide-me-documentation/26.png)
+
+![Confluence space, part 27](confluence-preview-accu-chek-guide-me-documentation/27.png)
+
+![Confluence space, part 28](confluence-preview-accu-chek-guide-me-documentation/28.png)
+
+![Confluence space, part 29](confluence-preview-accu-chek-guide-me-documentation/29.png)
+
+![Confluence space, part 30](confluence-preview-accu-chek-guide-me-documentation/30.png)
+
+![Confluence space, part 31](confluence-preview-accu-chek-guide-me-documentation/31.png)
+
+![Confluence space, part 32](confluence-preview-accu-chek-guide-me-documentation/32.png)
+
+![Confluence space, part 33](confluence-preview-accu-chek-guide-me-documentation/33.png)
+
+</details>
 
 ## Repository Structure
 
